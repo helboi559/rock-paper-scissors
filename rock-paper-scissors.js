@@ -44,7 +44,7 @@ function playRound(playerSelection,computerSelection) {
 }
 let playerScore;
 let computerScore ;
-//5 round game
+//5 round game s
 // game()
 function game() {
     //calculate round winner 
